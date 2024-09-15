@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://hurikoroqo.pages.dev/sitemap.xml
